@@ -115,4 +115,4 @@ theme: solitude
 deploy:
   type: git
   repo: git@github.com:surmoun/surmoun.github.io.git
-  branch: y1j-pages
+  branch: main

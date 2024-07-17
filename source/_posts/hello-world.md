@@ -225,4 +225,3 @@ public class AliOssUtil {
 
 ![SrpingBoot](https://s21.ax1x.com/2024/07/17/pkI5pCQ.png)
 
-![SpringBoot01](https://s21.ax1x.com/2024/07/17/pkI5Cgs.png)
